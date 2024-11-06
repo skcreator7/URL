@@ -1,8 +1,8 @@
-API_ID       = ""
-API_HASH     = ""
-BOT_TOKEN    = ""
+API_ID       = 23978272
+API_HASH     = "c3881f07b3bfd6b1d7ab3a400d840a28"
+BOT_TOKEN    = "7931402157:AAGn1TnJYKBWQpG_zqYewWEXvK-789lQ4w4"
 SESSION      = ""
 DATABASE_URI = ""
 LOG_CHANNEL  = ""
 ADMIN        = ""
-CHANNEL      = "@skcreator7"
+
